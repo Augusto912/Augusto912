@@ -1,4 +1,8 @@
 ## Hi there 👋
+me chamo Augusto Cruz
+.estou estudando na Alura
+.estou me desenvolvendo na linguagem javascript
+.Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
 **Augusto912/Augusto912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
